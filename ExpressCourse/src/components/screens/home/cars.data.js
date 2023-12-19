@@ -1,0 +1,18 @@
+export const cars = [{
+    id: 1,
+    name: "Toyota Camry",
+    price: 24970,
+    image: '/Camry.webp'
+},
+{
+    id: 2,
+    name: "Honda Civic",
+    price: 22545,
+    image: '/honda_civic.jpg'
+},
+{
+    id: 3,
+    name: "Mazda RX 7",
+    price: 27830,
+    image: '/mazda-rx-7.webp'
+}]
